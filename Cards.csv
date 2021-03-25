@@ -1,3 +1,4 @@
+color_identity,mana_cost,name,oracle_text,power,toughness,type_line
 "[""U""]",{U},Sensory Deprivation,"Enchant creature
 Enchanted creature gets -3/-0.",,,Enchantment — Aura
 "[""U""]",{1}{U},Storm Crow,"Flying (This creature can't be blocked except by creatures with flying or reach.)",1,2,Creature — Bird
